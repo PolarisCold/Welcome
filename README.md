@@ -34,8 +34,6 @@
 
 <br>
 <br>
-
-<details align="center">  
   
   <br>
 
